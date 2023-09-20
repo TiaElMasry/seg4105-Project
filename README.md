@@ -1,1 +1,9 @@
-# seg4105-Project
+# Seg4105-Project
+
+Mamadou Diallo
+
+
+Tia El Masry
+300160596
+
+Project Description
