@@ -15,7 +15,7 @@ SimplyEats is an application that allows users to order homemade meals from loca
 
 |Name | Purpose |
 | -- | :--: |
-| Google docs | Documentation |
+| Documentation |  Google docs|
 | Development tool | Flutter |
 | Backend | Fast API |
 | containerization | Docker |
