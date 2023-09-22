@@ -18,7 +18,7 @@ SimplyEats is an application that allows users to order homemade meals from loca
 | Google docs | Documentation |
 | Development tool | Flutter |
 | Backend | Fast API |
-| Containarization | Docker |
+| containerization | Docker |
 | Database | Firebase |
 | Communication | Discord |
 
@@ -27,7 +27,7 @@ SimplyEats is an application that allows users to order homemade meals from loca
 |WITH | DISCUSSION | DURATION | FREQUENCY |
 | -- | :--: | -- | :--: |
 |TEAM| DISCUSS PROGRESS WITH TEAM| 1h | Every Friday |
-|Prof| DISCUSS PROGRESS OF PROJECT | 1h | Every Friday |
-|The whole team | WORK ON THE PROJECT | 5h | Every Saturday and Sunday |
+|PROF| DISCUSS PROGRESS OF PROJECT | 1h | Every Friday |
+|THE WHOLE TEAM | WORK ON THE PROJECT | 5h | Every Saturday and Sunday |
 
 
