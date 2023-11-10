@@ -1,0 +1,24 @@
+Stand-Up Meeting Notes: User Preference Algorithm Project
+Date: [05/11/2023]
+Attendees: 
+TIA EL MASRY
+ MAMADOU DIALLO
+ HATEM
+1. Project Overview
+* Description: Developing an algorithm for personalized video recommendations in our food app.
+* Current Phase: Implementation of core functionalities and database interaction.
+2. Accomplishments
+* Initial Recommendations: Implemented feature to request initial recommendations from the backend for the user's feed upon app launch.
+* Video Playback Tracking: The app now automatically plays videos and sends asynchronous requests to the backend to record start of video playback.
+* New or Reset Users : For new users, it plays the trending videos available if no preference or watch history or when watch history is reset, default recommendations (e.g., trending or most-watched videos) will be used before personalized data collection begins.
+* 
+3. Next Steps
+* Interaction Recording: Implemented functionality to capture user interactions with videos (likes, shares, comments) and whether the video was watched completely or partially.
+* Database Interaction: Integrate PostgreSQL and WordPress for backend data management.
+* Docker Deployment: Prepare for pushing the project to Docker Hub and subsequent deployment.
+* WordPress: Using Wordpress to create Plugins that will help with the data management and also gives a view of the products available. 
+4. Key Considerations
+* New or Reset Users: For new users or when watch history is reset, default recommendations (e.g., trending or most-watched videos) will be used before personalized data collection begins.
+* Asynchronous Recommendation Updates: Ensure recommendations are updated asynchronously based on user interactions and watch history.
+* Importance of Watch Duration: Incorporate video watch duration as a significant factor in refining recommendations.
+* Multiple Watched Categories: Develop a strategy to prioritize video categories in recommendations based on frequency, total watch time, and user interactions (likes, comments, shares).
